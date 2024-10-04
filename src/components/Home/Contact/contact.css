@@ -1,0 +1,83 @@
+.contact-page {
+    padding: 35px;
+}
+.contact-header{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+
+}
+.query{
+    background: linear-gradient(90deg,#5de0e6,#004aed);
+    padding: 20px;
+    
+    
+}
+.query:hover{
+    cursor: pointer;
+}
+.form-card{
+    margin: 20px;
+    opacity: 0.8;
+}
+.form-card label{
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+    
+    
+
+}
+.contact-form-input{
+    width: 40%;
+    margin: 10px;
+}
+.form-card{
+    padding: 10px;
+}
+
+.connects{
+    background-color: #818181;
+    height: 17px;
+    padding: 10px;
+    border-radius: 14px;
+    text-align: center;
+
+}
+.form-card{
+    background-color: #143858;
+    display: flex;
+    flex-direction: column;
+    
+}
+.calendar-card{
+    padding: 20px;
+}
+.calendar-card-design{
+    
+    background-color: #fff;
+    padding: 20px;
+}
+.calendar-content{
+    border: 1px solid rgb(238, 234, 234);
+}
+
+.appointment-details{
+    border: 1px solid rgb(238, 234, 234);
+    padding: 15px;
+}
+.appointment-time{
+    padding: 20px;
+    margin-top: 30px;
+    width: 200px;
+    
+}
+.schedule{
+    color: #818181;
+}
+.splash{
+    position: absolute;
+    z-index: -1;
+    left: 40%;
+    right: 100%;
+}

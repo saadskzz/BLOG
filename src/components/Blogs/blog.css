@@ -1,0 +1,26 @@
+.Blog-body{
+    padding: 15px;
+}
+.Blog-header h1 {
+    background-color: #706d6d; 
+    color: white; 
+    padding: 10px; 
+    text-align: center; 
+    border-radius: 20px;
+}
+.Blog-form{
+margin: 20px;
+    padding: 50px;
+    background: #143858;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+.formspace{
+    margin: 10px;
+}
+.robot{
+    position: absolute;
+    z-index: -1;
+    top: 45%;
+    left: 50%;
+}

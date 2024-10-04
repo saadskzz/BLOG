@@ -1,0 +1,55 @@
+body{
+    background: linear-gradient(90deg,#000000,#3533cd);
+}
+
+.service-header{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.serviceHeader-content{
+   
+    color: #fff;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    
+    background-color: #a6a6a6;
+    height: 400px;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.card-header{
+    background: linear-gradient(90deg,#5de0e6,#004aed);
+    display: flex;
+    
+    justify-content: center;
+border-radius: 10px;
+color: #fff;
+font-size: 15px;
+font-weight: bold;
+text-align: center;
+
+}
+
+
+.card-content{
+   margin: 5px;
+   color: #fff;
+   display: flex;
+   justify-content: center;
+   text-decoration: none;
+}
+.card-content ul li{
+    
+    margin: 10px;
+    color: #fff;
+    font-weight: bold;
+}
+.card-content a{
+    color: #fff;
+}

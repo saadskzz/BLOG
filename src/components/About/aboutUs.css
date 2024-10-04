@@ -1,0 +1,21 @@
+.About-body{
+    padding: 15px;
+}
+.About-header h1 {
+    background-color: #706d6d; 
+    color: white; 
+    padding: 10px; 
+    text-align: center; 
+    border-radius: 20px;
+}
+.owner-info{
+    background-color: #818181;
+    color: #fff;
+    padding: 4px;
+    border-radius: 10px;
+}
+.owner-info p{
+    line-height: 1.8;
+    font-size: 18px;
+
+}
